@@ -12,11 +12,9 @@ Installation
 
 In your Instance, simply navigate to »Apps«, choose the category »Files«, find the SCMeta app and enable it.
 
-OR
-
 **ownCloud**
-- Copy the scmeta folder in the app directory of owncloud.
-- If not already done, rename the app-folder to "SCMeta" - causes overwise an sql error.
+- Copy the `SCMeta` folder in the app directory of owncloud.
+- If not already done, rename the app-folder to `SCMeta` - causes overwise an sql error.
 - Enable this app in the admin interface.
 
 Usage
