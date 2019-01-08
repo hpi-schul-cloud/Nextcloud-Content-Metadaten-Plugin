@@ -1,0 +1,1 @@
+Nextcloud-Content-Metadaten-Plugin
