@@ -1,5 +1,6 @@
-SCMeta
+Nextcloud-Content-Metadaten-Plugin
 ========
+Ermöglicht das Bearbeiten von gehosteten Schul-Cloud Metadaten direkt aus dem Nextcloud Hostingsystem. Oder es zeigt einfach nur einen Link dorthin an, da sind wir uns noch nicht einig ;D
 
 **Plugin for [Nextcloud](https://nextcloud.com) and [ownCloud](https://owncloud.org) to edit [Schul-Cloud](https://schul-cloud.org) Content Metadata**
 

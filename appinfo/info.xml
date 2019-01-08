@@ -2,8 +2,8 @@
 <info xmlns:xsi= "http://www.w3.org/2001/XMLSchema-instance"
       xsi:noNamespaceSchemaLocation="https://apps.nextcloud.com/schema/apps/info.xsd">
     <id>SCMeta</id>
-    <name>_SC-Metadaten</name>
-    <summary>Schul-Cloud Metadaten</summary>
+    <name>Schul-Cloud-Content-Metadaten</name>
+    <summary>Ermöglicht das Bearbeiten von gehosteten Schul-Cloud-Content Metadaten direkt aus dem Nextcloud Hostingsystem. Oder es zeigt einfach nur einen Link zu einer Seite zum ändern an, da sind wir uns noch nicht einig ;D</summary>
     <description>
         TODO
     </description>
